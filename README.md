@@ -1,4 +1,4 @@
-# Math Rush Runner
+# Math Rush
 
 COMP 204 - Programming Studio Project
 A hyper-casual Unity game where you control a horde of runners, make quick math-based decisions at gates, avoid deadly traps, and defeat a boss at the end of each level.
